@@ -31,14 +31,13 @@ h2{
     font-size: 14px;
     
 }
-p{
+p {
     font-family:'IBM Plex Mono', monospace;
     font-size: 14px;
     width: 100%;
-    
-    
-    
-
+}
+p a{
+    text-decoration: none
 }
 h3{
     font-weight: normal;
@@ -127,6 +126,7 @@ abbr{
     text-align: center;
     line-height: 3;
     border-bottom: 1px solid grey;
+   
 }
 .view-css {
     font-size: 0px;
