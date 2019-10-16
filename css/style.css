@@ -3,7 +3,7 @@
 @import url('https://fonts.googleapis.com/css?family=Roboto:300');
 
 body{
-    padding-left: 100px;
+    
     margin:0px;
 }
 header{
@@ -46,7 +46,7 @@ h3{
 }
 #zen-participation, #zen-benefits{
     background-color: rgb(93, 128, 93);
-    padding-left: 100px;
+    
     
     
     color: white;
