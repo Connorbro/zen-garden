@@ -128,7 +128,10 @@ abbr{
     line-height: 3;
     border-bottom: 1px solid grey;
 }
-.view-css a{
+.view-css {
     font-size: 0px;
     
+}
+.css-resources{
+    font-size: 0px;
 }
