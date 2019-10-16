@@ -37,7 +37,7 @@ p {
     width: 100%;
 }
 p a{
-    text-decoration: none
+    text-decoration: none;
 }
 h3{
     font-weight: normal;
@@ -127,6 +127,10 @@ abbr{
     line-height: 3;
     border-bottom: 1px solid grey;
    
+}
+
+#design-selection {
+    background-color: rgb(198, 211, 178);
 }
 .view-css {
     font-size: 0px;
