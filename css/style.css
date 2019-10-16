@@ -120,3 +120,15 @@ ul a{
 abbr{
     text-decoration: none;
 }
+[role= navigation] li{
+    outline: none;
+    display: inline-block;
+    width:48%;
+    text-align: center;
+    line-height: 3;
+    border-bottom: 1px solid grey;
+}
+.zen-resources{
+    font-size: 0px
+    
+}
