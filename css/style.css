@@ -132,6 +132,10 @@ abbr{
 #design-selection {
     background-color: rgb(198, 211, 178);
 }
+.next, .viewall  {
+    background-color:  rgb(198, 211, 178);
+}
+
 .view-css {
     font-size: 0px;
     
