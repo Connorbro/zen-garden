@@ -2,6 +2,9 @@
 @import url('https://fonts.googleapis.com/css?family=Satisfy');
 @import url('https://fonts.googleapis.com/css?family=Roboto:300');
 
+body{
+    padding-left: 100px;
+}
 header{
     background-image: url(huntington.png);  
     background-position: right top;
@@ -31,23 +34,32 @@ p{
     font-family:'IBM Plex Mono', monospace;
     font-size: 14px;
     width: 100%;
+    padding-left: 100px;
+    
+
 }
 h3{
     font-weight: normal;
     font-family: 'IBM Plex Mono', monospace;
+    padding-left: 100px;
 }
 #zen-participation, #zen-benefits{
     background-color: rgb(93, 128, 93);
-    width: 100%;
-    padding: 10px;
+    padding-left: 100px;
+    
+    
     color: white;
-    padding: 20px;
+    padding:20px;
 }
 #zen-participation a, #zen-benefits a{
     color: black;}
 
+    #zen-participation h3, #zen-benefits h3{
+        color:black}
 
-
+#design-selection h3{
+    font-size: 0px;
+}
 
 
 #zen-requirements [role= "contentinfo"] {
@@ -71,7 +83,7 @@ h3{
 }
 #zen-requirements a {
     color: black;
-    margin-bottom: 0px;
+   
 }
 
 
