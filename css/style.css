@@ -17,7 +17,7 @@ h1{
     text-transform: uppercase; 
     font-family: 'roboto', sans-serif;
     color: white;
-    text-shadow:2px 2px black;
+    text-shadow:4px 4px black;
     
     
 }
@@ -25,6 +25,10 @@ h1{
     color: black
 }
 h2{
+    background-image: url(zen.svg);
+    background-repeat: no-repeat;
+    background-size: contain;
+    background-position-x: 550px;
     text-align: center;
     font-family: 'satisfy', cursive;
     color: white;
@@ -132,9 +136,8 @@ abbr{
 #design-selection {
     background-color: rgb(198, 211, 178);
 }
-.next, .viewall  {
-    background-color:  rgb(198, 211, 178);
-}
+
+
 
 .view-css {
     font-size: 0px;
