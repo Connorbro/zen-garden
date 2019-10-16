@@ -60,6 +60,12 @@ h3{
 #design-selection h3{
     font-size: 0px;
 }
+#design-archives h3{
+    font-size: 0px;
+}
+#zen-resources h3{
+    font-size: 0px;
+}
 
 
 #zen-requirements [role= "contentinfo"] {
