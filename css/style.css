@@ -65,7 +65,8 @@ h3{
 #zen-requirements [role= "contentinfo"] a {
     color: white;
     font-family: 'satisfy', cursive;
-    font-size: 44px
+    font-size: 44px;
+    text-decoration: none;
 
 }
 #zen-requirements a {
@@ -87,4 +88,12 @@ footer a{
     word-spacing: 30px;
     text-decoration: none;
 }
+ul{
+    list-style-type: none;
+    text-decoration: none;
+}
+ul a{
+    color: black;
+    text-decoration: none;
 
+}
